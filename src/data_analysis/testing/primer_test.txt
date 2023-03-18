@@ -1,0 +1,2 @@
+"Revisando la presencia de valores extremos en nuestros datos y evaluando los posibles
+ treshold que podamos usar para clasificar un días como caluroso/no caluroso o lluvioso/no lluvioso"
